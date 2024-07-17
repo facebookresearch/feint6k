@@ -7,6 +7,15 @@
 Meta Reality Labs, Johns Hopkins University, Meta AI\
 [[`Project Page`]](https://feint6k.github.io) [[`arXiv (coming soon ...)`]](#)
 
+---
+
+We propose a novel evaluation task for video-text understanding, namely *retrieval from counterfactually augmented data* (RCAD), and a new *Feint6K* dataset, to better assess the capabilities of current video-text models and understand their limitations. To succeed on our new task, models must derive a comprehensive understanding of the video from cross-frame reasoning.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f0a3e762-f2e2-48fe-9c80-46fc998d625a" width=100% height=100% class="center">
+</p>
+
+
 ## Citation
 
 If you find this dataset helpful, please consider citing:
